@@ -3,13 +3,24 @@
   <img src="./js-challenges-logo.png"></img>
 </h1>
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Sunny-117/js-challenges" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89" target="_blank">
+  <a href="./LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <img alt="Node.js" src="https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-%3E%3D8.0.0-brightgreen.svg" />
+  <a href="https://github.com/Sunny-117/js-challenges/actions" target="_blank">
+    <img alt="CI" src="https://github.com/Sunny-117/js-challenges/workflows/CI/badge.svg" />
+  </a>
+  <a href="https://github.com/Sunny-117/js-challenges/issues" target="_blank">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Sunny-117/js-challenges.svg" />
+  </a>
+  <a href="https://github.com/Sunny-117/js-challenges/pulls" target="_blank">
+    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sunny-117/js-challenges.svg" />
   </a>
   <a href="https://twitter.com/zhiqiangfu6sun" target="_blank">
     <img alt="Twitter: zhiqiangfu6sun" src="https://img.shields.io/twitter/follow/zhiqiangfu6sun.svg?style=social" />

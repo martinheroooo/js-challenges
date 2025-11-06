@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+coverage/
+*.min.js
+*.bundle.js
+pnpm-lock.yaml
+package-lock.json
